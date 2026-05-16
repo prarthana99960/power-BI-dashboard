@@ -50,7 +50,7 @@ This Power BI dashboard project analyzes the performance of sports products usin
 
 ## Dashboard Preview
 
-![Dashboard Preview]images/screenshot.png
+![Dashboard](Screenshot.png)
 
 ## Project Objective
 
